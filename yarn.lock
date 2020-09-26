@@ -3497,10 +3497,10 @@ cosmiconfig@^6.0.0:
     path-type "^4.0.0"
     yaml "^1.7.2"
 
-country-code-lookup@0.0.17:
-  version "0.0.17"
-  resolved "https://registry.yarnpkg.com/country-code-lookup/-/country-code-lookup-0.0.17.tgz#3607c909df9981d67f2ec346c4d4eaf31708113f"
-  integrity sha512-LI4sIeuuYhkuxbI0Bf78aBoupQxjTMH5mVgT1bul1m2XnaT7jaxlaplRcH8XA6ZNFBN4CmuzQKOpSESzuGHlig==
+country-code-lookup@0.0.18:
+  version "0.0.18"
+  resolved "https://registry.yarnpkg.com/country-code-lookup/-/country-code-lookup-0.0.18.tgz#389f4cd170e4c52c3fe84192db4dceaf6ae87f1a"
+  integrity sha512-wg6ZIa8PFiFhKBNPPzLWFm+wkK4ZPsT8AWitoYMcC6zRKqw3lR4my25AJ67+VKZ24VLEZg96SZmWW9IaNmGBDg==
 
 create-ecdh@^4.0.0:
   version "4.0.3"
