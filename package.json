@@ -8,7 +8,7 @@
     "@testing-library/jest-dom": "5.11.2",
     "@testing-library/react": "9.5.0",
     "@testing-library/user-event": "12.0.17",
-    "axios": "0.19.2",
+    "axios": "0.21.1",
     "country-code-lookup": "0.0.17",
     "mapbox-gl": "1.11.1",
     "date-fns": "2.15.0",
