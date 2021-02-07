@@ -11,7 +11,7 @@
     "axios": "0.19.2",
     "country-code-lookup": "0.0.17",
     "mapbox-gl": "1.11.1",
-    "date-fns": "2.15.0",
+    "date-fns": "2.17.0",
     "prettier": "2.0.5",
     "react": "16.13.1",
     "react-dom": "16.13.1",
